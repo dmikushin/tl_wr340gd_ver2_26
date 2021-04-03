@@ -4,6 +4,8 @@
 
 ## UART Pinout
 
+<img src="pinout.jpg">
+
 ## Minicom Configuration
 
 ```
